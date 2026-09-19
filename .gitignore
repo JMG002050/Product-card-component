@@ -1,0 +1,19 @@
+#------------
+# Specific files that need to be ignored
+#------------
+product-preview-card-component-main.zip
+README-template.md
+
+#------------
+# Entire folder and files
+#------------
+resources/AI/
+
+# -------------------------
+# COMMON WEB DEV .gitignore
+# -------------------------
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
