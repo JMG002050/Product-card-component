@@ -3,8 +3,7 @@
 This challenge is part of my journey to master responsive design with HTML & CSS.
 
 ## Live Preview
-
-[https://jmg002050.github.io/Results-summary-component/](https://jmg002050.github.io/Product-card-component/)
+https://jmg002050.github.io/Product-card-component/
 
 ## 📸 Preview
 
