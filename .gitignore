@@ -8,6 +8,7 @@ README-template.md
 # Entire folder and files
 #------------
 resources/AI/
+resources/design/Figma/
 
 # -------------------------
 # COMMON WEB DEV .gitignore
