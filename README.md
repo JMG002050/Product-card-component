@@ -1,6 +1,6 @@
-# Results Summary Component | Frontend Mentor Challenge
+# Product Preview Card Component | Frontend Mentor Challenge
 
-This challenge is part of my journey to master responsive design with CSS and add interactivity with JavaScript.
+This challenge is part of my journey to master responsive design with HTML & CSS.
 
 ## Live Preview
 
